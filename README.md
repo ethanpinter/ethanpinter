@@ -1,7 +1,7 @@
 Hi 👋 My name is Ethan
 ======================
 
-Student Researcher
+Student Security Researcher & Penetration Tester
 ------------------
 
 I am currently a Junior attending The Pennsylvania State University studying Cybersecurity Analytics & Operations with a focus in Law and Policy. I anticipate completing my undergraduate degree in the spring of 2024, then moving into a master's program. My most recent work involves lab design and implementation in a browser-based virtual machine. With this environment, I intend to strengthen the knowledge and working experience of students within a terminal environment, as the information science industry revolves around this tool.
