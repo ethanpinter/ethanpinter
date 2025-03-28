@@ -1,7 +1,6 @@
-PiHi 👋 My name is Ethan
-======================
-
 SecDevOps & Penetration Testing
+======================
+Small collection of personal projects and tools.
 ------------------
 
 *   🌍  I'm based in Pittsburgh, Pennsylvania
