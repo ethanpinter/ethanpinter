@@ -1,10 +1,10 @@
-Hi 👋 My name is Ethan
+PiHi 👋 My name is Ethan
 ======================
 
 SecDevOps & Penetration Testing
 ------------------
 
-*   🌍  I'm based in Pittsbrugh, Pennsylvania
+*   🌍  I'm based in Pittsburgh, Pennsylvania
 *   ✉️  You can contact me at [ethanpinter07@gmail.com](mailto:ethanpinter07@gmail.com)
 
 ### Skills
